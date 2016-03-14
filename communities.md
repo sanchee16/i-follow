@@ -1,3 +1,4 @@
 ## Must follow community pages
 
-https://zeef.com/
+https://zeef.com/ <br>
+http://blog.udacity.com/
