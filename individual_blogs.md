@@ -14,3 +14,8 @@ http://setosa.io/#/ <b>
 ## Statistics
 
 http://www.willmcginnis.com/ <br>
+
+
+## Mathematics 
+
+http://ianstewartjoat.weebly.com/ <br>
